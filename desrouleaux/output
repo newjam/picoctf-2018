@@ -1,0 +1,19 @@
+You'll need to consult the file `incidents.json` to answer the following questions.
+
+
+What is the most common source IP address? If there is more than one IP address that is the most common, you may give any of the most common ones.
+9.94.163.45
+Correct!
+
+
+How many unique destination IP addresses were targeted by the source IP address 43.250.172.185?
+3
+Correct!
+
+
+What is the average number of unique destination IP addresses that were sent a file with the same hash? Your answer needs to be correct to 2 decimal places.
+1.29
+Correct!
+
+
+Great job. You've earned the flag: picoCTF{J4y_s0n_d3rUUUULo_b6cacd6c}
